@@ -4,7 +4,7 @@
   "description": "Cherry Importadora links",
   "main": "./js/index.js",
   "scripts": {
-    "build": "webpack --config webpack.config.js",
+    
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
